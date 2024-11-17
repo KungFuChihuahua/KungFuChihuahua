@@ -2,6 +2,6 @@
 - 👀 I’m interested in anything with a V8+ and corners like it’s on rails (cars or code, your pick).  
 - 🌱 I’m currently learning how to automate the world one application at a time.  
 - 💞️ I’m looking to collaborate on automating the impossible and scaling the unscalable.  
-- 📫 How to reach me: If you can find me, you deserve an answer.  
+- 📫 How to reach me: I’m as hard to find as the A-Team, but without the Mohawk—and I love it when a plan comes together.  
 - 😄 Pronouns: Code/Compile  
 - ⚡ Fun fact: My Chihuahua is as determined as me when debugging at 2 AM—neither of us gives up easily.
