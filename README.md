@@ -1,7 +1,13 @@
 - 👋 Hi, I’m @KungFuChihuahua  
-- 👀 I’m interested in anything with a V8+ and corners like it’s on rails (cars or code, your pick).  
-- 🌱 I’m currently learning how to automate the world one application at a time.  
-- 💞️ I’m looking to collaborate on automating the impossible and scaling the unscalable.  
-- 📫 How to reach me: I’m as hard to find as the A-Team, but without the Mohawk—and I love it when a plan comes together.  
-- 😄 Pronouns: Code/Compile  
-- ⚡ Fun fact: My Chihuahua is as determined as me when debugging at 2 AM—neither of us gives up easily.
+- 👀 **Interests:** Anything with a V8 engine and corners like it’s on rails (cars or code, take your pick).  
+- 🌱 **Currently learning:** How to automate the world one application at a time.  
+- 💞️ **Looking to collaborate on:** Automating the impossible and scaling the unscalable.  
+- 📫 **How to reach me:** I'm as elusive as the A-Team, but if you crack the code, we might just fix the unfixable together.  
+- 😄 **Pronouns:** Code/Compile  
+- ⚡ **Fun fact:** My Chihuahua thinks she’s the boss—and honestly, she’s probably right. When she’s not supervising, I’m fixing anything that’s broken, not just code.  
+- 🤖 **Bonus automation:** My robot mower handles the lawn so I can focus on fixing everything else that’s broken.  
+- 🧐 **Wise saying:** Confucius says, “He who writes no unit tests will debug thrice as long.”  
+- 🎩 **Hidden talent:** Debugging code, appliances, and bad life decisions—all before finishing my first soda of the day.  
+- 🚀 **Motto:** Move fast and fix things—because breaking them is too mainstream.  
+- 🛠️ **Tools of the trade:** C#, .NET, and an endless supply of duct tape for life’s unexpected bugs.  
+- 🎮 **When not coding:** I’m probably 3D printing, tinkering with DIY gadgets, or convincing my Chihuahua that I’m in charge.
