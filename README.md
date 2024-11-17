@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KungFuChihuahua  
 - 👀 I’m interested in anything with a V8+ and corners like it’s on rails (cars or code, your pick).  
 - 🌱 I’m currently learning how to automate the world one application at a time.  
-- 💞️ I’m looking to collaborate on projects that involve C#, .NET, or anything that makes debugging slightly less painful.  
+- 💞️ I’m looking to collaborate on automating the impossible and scaling the unscalable.  
 - 📫 How to reach me: If you can find me, you deserve an answer.  
 - 😄 Pronouns: Code/Compile  
-- ⚡ Fun fact: I’m bringing sexy back… with .NET and 3D printing.
+- ⚡ Fun fact: My Chihuahua is as determined as me when debugging at 2 AM—neither of us gives up easily.
